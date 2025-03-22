@@ -1,0 +1,12 @@
+ALL HTML PAGES DETAILS :-
+
+index.html(Home)
+km.html(Know More)
+ls.html(list your shop)
+rl.html(rider login)
+arp.html(zpply for ride partner)
+csdl.html(customer support department login)
+lg.html(login page)
+su.html(signup page)
+fp.html(forgot password)
+cf.html(careers at foodex)

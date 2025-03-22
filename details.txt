@@ -1,0 +1,58 @@
+"https://source.unsplash.com/500x500/?seafood"
+https://source.unsplash.com/500x350/?seafood
+
+<!--FILLERS-->
+<div style="background-color: rgb(245, 247, 237);">
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
+      repellendus nesciunt corporis aut quos quod voluptatum nihil voluptatem
+      quasi laudantium culpa blanditiis, quis molestiae cum nisi eveniet
+      voluptates. Hic, optio quod odio quaerat necessitatibus facere. Optio non
+      voluptatibus fugiat reprehenderit deserunt autem delectus commodi
+      similique, quia voluptatum, sit minima a ullam qui iure officia! Porro
+      repellendus labore est sunt magni neque. Voluptatum aliquam suscipit
+      dolores illo explicabo laboriosam, qui esse sint dignissimos deserunt,
+      voluptatibus, beatae minima mollitia provident labore quaerat officiis
+      amet facere reiciendis corrupti. Quae quis hic, odio, in totam nulla
+      perspiciatis reiciendis eos ex recusandae tempora. Impedit maxime sed
+      quisquam voluptas mollitia nam ipsa blanditiis obcaecati quia doloremque
+      similique quas, tenetur aut vel voluptates pariatur, iusto officia
+      veritatis inventore. Cupiditate, praesentium blanditiis? Quo sunt atque
+      accusantium debitis optio, dolores maiores molestias qui amet doloribus
+      adipisci voluptates sapiente inventore provident autem facilis veritatis
+      aliquid. Deserunt aut necessitatibus ducimus dolor corporis adipisci quas
+      nostrum similique cumque, suscipit hic vitae, nisi mollitia in repellendus
+      magnam, incidunt possimus cum porro ipsum perspiciatis! Eaque blanditiis
+      doloribus laborum excepturi sunt reiciendis hic recusandae necessitatibus
+      non quaerat! Veritatis animi nulla nihil atque? Beatae maxime quia
+      voluptas modi ratione alias veritatis odit vero porro! Iure obcaecati
+      illum et. Eveniet perferendis aperiam velit sapiente ullam, architecto
+      sequi dolorum id, dignissimos, nulla provident possimus aut similique
+      doloribus? Natus omnis nihil, cumque, et doloremque error nemo quam
+      consequatur, corrupti non quidem quia! Cumque culpa ex rerum recusandae
+      excepturi, soluta labore quas non, minus consequuntur, quisquam dolor est
+      deserunt saepe porro? Incidunt, assumenda labore. Tenetur quibusdam
+      tempore perferendis error reiciendis dolorum, eaque ex esse commodi
+      quaerat distinctio asperiores. Numquam aspernatur atque vero. Praesentium,
+      molestias inventore? Maxime temporibus delectus saepe aspernatur eaque!
+      Reprehenderit eligendi, enim iste iusto et qui dolorum ab, velit sequi
+      magnam adipisci voluptas fugit ullam consequuntur quae minima.
+    </p>
+  </div>
+
+
+
+   <!--BUTTONS-->
+   <div>
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-secondary">Secondary</button>
+    <button type="button" class="btn btn-success">Success</button>
+    <button type="button" class="btn btn-danger">Danger</button>
+    <button type="button" class="btn btn-warning">Warning</button>
+    <button type="button" class="btn btn-info">Info</button>
+    <button type="button" class="btn btn-light">Light</button>
+    <button type="button" class="btn btn-dark">Dark</button>
+  </div>
+
+
+  "https://source.unsplash.com/500x350/?Pizza"
